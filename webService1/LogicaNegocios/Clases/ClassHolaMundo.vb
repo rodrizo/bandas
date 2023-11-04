@@ -15,7 +15,7 @@ Public Class ClassHolaMundo
     'End Function
 
 
-    Public Function AgregarFactura(Cliente As Integer, ProductoId As Integer, CantidadProducto As Integer) As String
+    Public Function AgregarMusicoGrupo(IdGrupo As Integer, IdMusico As Integer, Instrumento As String, FechaInicio As Date, FechaFin As Date) As String
 
 
         Dim comando As New OracleCommand
@@ -28,26 +28,40 @@ Public Class ClassHolaMundo
 
 
         Try
-            comando.CommandText = "PAQUETE1.agregar_factura"
+            comando.CommandText = "pkgMain.agregar_musico_grupo"
             comando.CommandType = CommandType.StoredProcedure
 
 
             parametro = New OracleParameter
-            parametro.ParameterName = "p_clienteId"
+            parametro.ParameterName = "p_IdGrupo"
             parametro.Direction = ParameterDirection.Input
-            conexion.GetOracleDbType(parametro, Cliente)
+            conexion.GetOracleDbType(parametro, IdGrupo)
             comando.Parameters.Add(parametro)
 
             parametro = New OracleParameter
-            parametro.ParameterName = "p_productoId"
+            parametro.ParameterName = "p_IdMusico"
             parametro.Direction = ParameterDirection.Input
-            conexion.GetOracleDbType(parametro, ProductoId)
+            conexion.GetOracleDbType(parametro, IdMusico)
             comando.Parameters.Add(parametro)
 
             parametro = New OracleParameter
-            parametro.ParameterName = "p_cantidadProducto"
+            parametro.ParameterName = "p_Instrumento"
             parametro.Direction = ParameterDirection.Input
-            conexion.GetOracleDbType(parametro, CantidadProducto)
+            conexion.GetOracleDbType(parametro, Instrumento)
+            comando.Parameters.Add(parametro)
+
+
+            parametro = New OracleParameter
+            parametro.ParameterName = "p_FechaInicio"
+            parametro.Direction = ParameterDirection.Input
+            conexion.GetOracleDbType(parametro, FechaInicio)
+            comando.Parameters.Add(parametro)
+
+
+            parametro = New OracleParameter
+            parametro.ParameterName = "p_FechaFin"
+            parametro.Direction = ParameterDirection.Input
+            conexion.GetOracleDbType(parametro, FechaFin)
             comando.Parameters.Add(parametro)
 
             parametro = New OracleParameter
@@ -61,6 +75,12 @@ Public Class ClassHolaMundo
         Catch ex As Exception
 
         End Try
+        If salida = "400" Then
+            Return "El músico ya existe en este grupo."
+        End If
+        If salida = "1" Then
+            Return "El músico se ha añadido con éxito."
+        End If
         Return salida
 
     End Function

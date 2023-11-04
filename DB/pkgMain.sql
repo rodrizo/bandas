@@ -20,15 +20,16 @@ CREATE OR REPLACE PACKAGE BODY pkgMain AS
         DECLARE flag NUMBER; --Flag para validar inventario del pan
         BEGIN
             SELECT 1 INTO flag FROM MusicosGrupos WHERE IdGrupo = p_IdGrupo AND IdMusico = p_IdMusico;
-            IF flag <> 1 THEN
+            IF flag = 1 THEN
+                p_salida:= '400'; --Código para determinar que el musico ya existe en el grupo
+            END IF;
+            
+            EXCEPTION
+                WHEN NO_DATA_FOUND THEN
                 
                 INSERT INTO MusicosGrupos VALUES(p_IdGrupo,p_IdMusico,p_Instrumento,p_FechaInicio, p_FechaFin);
                 p_salida:='1';  --Código para determinar inserts
                 COMMIT;
-            
-            ELSE
-                p_salida:= '400'; --Código para determinar que el musico ya existe en el grupo
-            END IF;
         END;
     END agregar_musico_grupo;
     
@@ -56,8 +57,7 @@ SET SERVEROUTPUT ON;
 VARIABLE p_salida VARCHAR2;
 
 BEGIN
-  
-  pkgMain.crud_pan(13, 'Pudín', '7', 'Pudin ok', '2', NULL,:p_salida);
+  pkgMain.agregar_musico_grupo(4, 4, 'guitarra', SYSDATE-5, SYSDATE-1,:p_salida);
  
 END;
 /

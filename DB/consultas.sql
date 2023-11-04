@@ -1,6 +1,12 @@
 
 SELECT * FROM MusicosGrupos
 
+--delete from MusicosGrupos where idgrupo = 3 and idmusico = 4
+
+SELECT * FROM Grupos
+
+SELECT * FROM Musicos
+
 
 SELECT  1 FROM MusicosGrupos WHERE IdGrupo = 3 AND IdMusico = 10
 

@@ -25,9 +25,9 @@ Public Class WebServiceHolaMundo
     'End Function
 
     <WebMethod()>
-    Public Function AgregarFactura(Cliente As Integer, ProductoId As Integer, CantidadProducto As Integer) As String
+    Public Function AgregarMusicoGrupo(IdGrupo As Integer, IdMusico As Integer, Instrumento As String, FechaInicio As Date, FechaFin As Date) As String
 
-        Return logicHolaMundo.AgregarFactura(Cliente, ProductoId, CantidadProducto)
+        Return logicHolaMundo.AgregarMusicoGrupo(IdGrupo, IdMusico, Instrumento, FechaInicio, FechaFin)
     End Function
 
 
