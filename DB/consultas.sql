@@ -41,3 +41,9 @@ WHERE g.IdGrupo = NVL(p_IdGenero, g.IdGrupo) --Insertar ID de genero acá
 GROUP BY g.Nombre
 
 
+SELECT g.Nombre AS Grupo, LISTAGG((m.Nombre || ' -> ' || m.Instrumento), ', ') AS Integrantes
+        FROM Grupos g
+        INNER JOIN MusicosGrupos mg ON mg.IdGrupo = g.IdGrupo
+        INNER JOIN Musicos m ON m.IdMusico = mg.IdMusico
+        WHERE g.IdGrupo = NVL(NULL, g.IdGrupo) 
+        GROUP BY g.Nombre;
