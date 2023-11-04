@@ -12,10 +12,10 @@ Public Class WebServiceHolaMundo
     Inherits System.Web.Services.WebService
     Dim logicHolaMundo As New LogicaNegocios.ClassHolaMundo
 
-    <WebMethod()> _
-    Public Function HelloWorld() As String
-       Return "Hola a todos"
-    End Function
+    '<WebMethod()> _
+    'Public Function HelloWorld() As String
+    '   Return "Hola a todos"
+    'End Function
 
     '<WebMethod()>
     'Public Function holamundoDesdeClase() As String
@@ -32,21 +32,21 @@ Public Class WebServiceHolaMundo
 
 
     <WebMethod()>
-    Public Function ObtenerProductos(ProveedorId As Integer) As DataSet
+    Public Function ObtenerMusicoGenero(IdGenero As Integer) As DataSet
 
-        Return logicHolaMundo.ObtenerProductos(ProveedorId)
+        Return logicHolaMundo.ObtenerMusicoGenero(IdGenero)
     End Function
 
     <WebMethod()>
-    Public Function ObtenerCategorias() As DataSet
+    Public Function ObtenerGrupoMax() As DataSet
 
-        Return logicHolaMundo.ObtenerCategorias()
+        Return logicHolaMundo.ObtenerGrupoMax()
     End Function
 
     <WebMethod()>
-    Public Function ObtenerClientes(ProductoId As Integer) As DataSet
+    Public Function ObtenerDetalleGrupos(IdGrupo As Integer) As DataSet
 
-        Return logicHolaMundo.ObtenerClientes(ProductoId)
+        Return logicHolaMundo.ObtenerDetalleGrupos(IdGrupo)
     End Function
 
     '<WebMethod()>

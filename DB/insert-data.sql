@@ -22,6 +22,7 @@ INSERT INTO Grupos VALUES((SELECT MAX(IdGrupo)+1 FROM Grupos), 'Jackson 5', SYSD
 INSERT INTO GenerosGrupos VALUES(1, 2)
 INSERT INTO GenerosGrupos VALUES(4, 2)
 INSERT INTO GenerosGrupos VALUES(2, 2)
+INSERT INTO GenerosGrupos VALUES(3, 3)
 
 --Musicos
 

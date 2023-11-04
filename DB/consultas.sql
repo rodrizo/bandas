@@ -22,9 +22,22 @@ WHERE mg.IdMusico IS NOT NULL
 
 --WS 3
 
-
+SELECT g.Nombre AS Grupo, LISTAGG(gn.Descripcion, ', ') AS Generos
+FROM Grupos g
+INNER JOIN GenerosGrupos gg ON gg.IdGrupo = g.IdGrupo
+INNER JOIN Generos gn ON gn.IdGenero = gg.IdGenero
+GROUP BY g.Nombre
+ORDER BY 2 DESC
+FETCH FIRST 1 ROW ONLY;
 
 
 
 --WS 4
+SELECT g.Nombre AS Grupo, LISTAGG((m.Nombre || ' -> ' || m.Instrumento), ', ') AS Integrantes
+FROM Grupos g
+INNER JOIN MusicosGrupos mg ON mg.IdGrupo = g.IdGrupo
+INNER JOIN Musicos m ON m.IdMusico = mg.IdMusico
+WHERE g.IdGrupo = NVL(p_IdGenero, g.IdGrupo) --Insertar ID de genero acá
+GROUP BY g.Nombre
+
 

@@ -5,10 +5,11 @@ CREATE OR REPLACE PACKAGE pkgMain AS
     p_FechaFin in DATE, p_salida OUT VARCHAR2);
     
     PROCEDURE obtener_musico_genero  (p_IdGenero in NUMBER, p_cursor out sys_refcursor);
-    /*
-    PROCEDURE obtener_grupo_max  (p_IdGrupo in INTEGER, p_cursor out sys_refcursor);
-    PROCEDURE obtener_detalle_grupos  (p_IdGrupo in INTEGER, p_cursor out sys_refcursor);
-    */
+    
+    PROCEDURE obtener_grupo_max  (p_cursor out sys_refcursor);
+    
+    PROCEDURE obtener_detalle_grupos  (p_IdGrupo in NUMBER, p_cursor out sys_refcursor);
+    
 END pkgMain;
 
     
@@ -49,6 +50,31 @@ CREATE OR REPLACE PACKAGE BODY pkgMain AS
         ORDER BY 1;
         
     END obtener_musico_genero;
+    
+    PROCEDURE obtener_grupo_max  (p_cursor out sys_refcursor) IS
+    BEGIN
+        OPEN p_cursor FOR 
+        SELECT g.Nombre AS Grupo, LISTAGG(gn.Descripcion, ', ') AS Generos
+        FROM Grupos g
+        INNER JOIN GenerosGrupos gg ON gg.IdGrupo = g.IdGrupo
+        INNER JOIN Generos gn ON gn.IdGenero = gg.IdGenero
+        GROUP BY g.Nombre
+        ORDER BY 2 DESC
+        FETCH FIRST 1 ROW ONLY;
+    END obtener_grupo_max;
+    
+    PROCEDURE obtener_detalle_grupos  (p_IdGrupo in NUMBER, p_cursor out sys_refcursor) IS
+    BEGIN
+    
+        OPEN p_cursor FOR 
+        SELECT g.Nombre AS Grupo, LISTAGG((m.Nombre || ' -> ' || m.Instrumento), ', ') AS Integrantes
+        FROM Grupos g
+        INNER JOIN MusicosGrupos mg ON mg.IdGrupo = g.IdGrupo
+        INNER JOIN Musicos m ON m.IdMusico = mg.IdMusico
+        WHERE g.IdGrupo = NVL(p_IdGrupo, g.IdGrupo) 
+        GROUP BY g.Nombre;
+    
+    END obtener_detalle_grupos;
     
 END pkgMain;
 

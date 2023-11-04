@@ -85,7 +85,7 @@ Public Class ClassHolaMundo
 
     End Function
 
-    Public Function ObtenerProductos(ProveedorId As Integer) As DataSet
+    Public Function ObtenerMusicoGenero(IdGenero As Integer) As DataSet
 
 
         Dim comando As New OracleCommand
@@ -98,13 +98,13 @@ Public Class ClassHolaMundo
 
 
         Try
-            comando.CommandText = "PAQUETE1.obtener_productos"
+            comando.CommandText = "pkgMain.obtener_musico_genero"
             comando.CommandType = CommandType.StoredProcedure
 
             parametro = New OracleParameter
-            parametro.ParameterName = "p_proveedorId"
+            parametro.ParameterName = "p_IdGenero"
             parametro.Direction = ParameterDirection.Input
-            conexion.GetOracleDbType(parametro, ProveedorId)
+            conexion.GetOracleDbType(parametro, IdGenero)
             comando.Parameters.Add(parametro)
 
             'parametro = New OracleParameter
@@ -128,7 +128,7 @@ Public Class ClassHolaMundo
 
 
 
-    Public Function ObtenerCategorias() As DataSet
+    Public Function ObtenerGrupoMax() As DataSet
 
 
         Dim comando As New OracleCommand
@@ -141,7 +141,7 @@ Public Class ClassHolaMundo
 
 
         Try
-            comando.CommandText = "PAQUETE1.obtener_categorias"
+            comando.CommandText = "pkgMain.obtener_grupo_max"
             comando.CommandType = CommandType.StoredProcedure
 
             'parametro = New OracleParameter
@@ -164,7 +164,7 @@ Public Class ClassHolaMundo
     End Function
 
 
-    Public Function ObtenerClientes(ProductoId As Integer) As DataSet
+    Public Function ObtenerDetalleGrupos(IdGrupo As Integer) As DataSet
 
 
         Dim comando As New OracleCommand
@@ -177,13 +177,13 @@ Public Class ClassHolaMundo
 
 
         Try
-            comando.CommandText = "PAQUETE1.obtener_clientes"
+            comando.CommandText = "pkgMain.obtener_detalle_grupos"
             comando.CommandType = CommandType.StoredProcedure
 
             parametro = New OracleParameter
-            parametro.ParameterName = "p_productoId"
+            parametro.ParameterName = "p_IdGrupo"
             parametro.Direction = ParameterDirection.Input
-            conexion.GetOracleDbType(parametro, ProductoId)
+            conexion.GetOracleDbType(parametro, IdGrupo)
             comando.Parameters.Add(parametro)
 
             'parametro = New OracleParameter
@@ -204,49 +204,5 @@ Public Class ClassHolaMundo
         End Try
         Return dataset
     End Function
-
-    'Public Function EditarSexo(Codigo As String, Abreviatura As String) As String
-
-
-    '    Dim comando As New OracleCommand
-    '    Dim parametro As New OracleParameter
-    '    Dim tabla As New DataTable
-    '    Dim conexion As New CapaDatos.DataConnection
-    '    Dim salida As String
-
-    '    conexion.AbrirConexion(connString)
-
-
-    '    Try
-    '        comando.CommandText = "PAQUETE1.editar_catalogo_sexos"
-    '        comando.CommandType = CommandType.StoredProcedure
-
-
-    '        parametro = New OracleParameter
-    '        parametro.ParameterName = "p_codigo"
-    '        parametro.Direction = ParameterDirection.Input
-    '        conexion.GetOracleDbType(parametro, Codigo)
-    '        comando.Parameters.Add(parametro)
-
-    '        parametro = New OracleParameter
-    '        parametro.ParameterName = "p_abreviatura"
-    '        parametro.Direction = ParameterDirection.Input
-    '        conexion.GetOracleDbType(parametro, Abreviatura)
-    '        comando.Parameters.Add(parametro)
-
-    '        parametro = New OracleParameter
-    '        parametro.ParameterName = "p_salida"
-    '        parametro.Direction = ParameterDirection.Output
-    '        parametro.OracleDbType = OracleDbType.Varchar2
-    '        parametro.Size = 200
-    '        comando.Parameters.Add(parametro)
-
-    '        salida = conexion.DBExecuteNonQueryReturnValue(comando, "p_salida").Value
-    '    Catch ex As Exception
-
-    '    End Try
-    '    Return salida
-
-    'End Function
 
 End Class
