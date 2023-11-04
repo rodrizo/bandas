@@ -1,0 +1,62 @@
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.Cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.Cache
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.AssemblyReference.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.CopyComplete
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll.config
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Buffers.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Memory.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Text.Json.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.ValueTuple.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Buffers.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Memory.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Text.Json.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\System.ValueTuple.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll.config

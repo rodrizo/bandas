@@ -1,0 +1,73 @@
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.dll.config
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\Oracle.DataAccess.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.vbprojResolveAssemblyReference.cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.Cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.dll.config
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\LogicaNegocios.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\Oracle.DataAccess.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\CapaDatos.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\LogicaNegocios.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\LogicaNegocios.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\CapaDatos.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\CapaDatos.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.Cache
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\webService1.dll.config
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\webService1.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\webService1.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\webService1.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\LogicaNegocios.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\CapaDatos.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\LogicaNegocios.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\LogicaNegocios.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\CapaDatos.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\CapaDatos.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.vbproj.AssemblyReference.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.vbproj.CoreCompileInputs.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.vbproj.CopyComplete
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\obj\Debug\webService1.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\LogicaNegocios.dll.config
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\CapaDatos.dll.config
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Text.Json.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Memory.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Text.Encodings.Web.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.ValueTuple.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Numerics.Vectors.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Buffers.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Text.Json.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Memory.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Text.Encodings.Web.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.ValueTuple.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Numerics.Vectors.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Buffers.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\webService1\bin\System.Runtime.CompilerServices.Unsafe.xml

@@ -1,0 +1,52 @@
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rodney Rizo\Desktop\Development\.NET\webService1\webService1\CapaDatos\bin\Debug\System.ValueTuple.xml
